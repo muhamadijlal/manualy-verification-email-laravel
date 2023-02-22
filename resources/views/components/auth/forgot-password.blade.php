@@ -1,0 +1,1 @@
+<a {{ $attributes }} class="text-xs text-slate-400 hover:text-sky-500">Forgot Password ?</a>
